@@ -1,0 +1,1 @@
+{"name":"wordpress-headless-starter","version":"1.0.0","type":"module","scripts":{"example":"node examples/posts.js"}}
